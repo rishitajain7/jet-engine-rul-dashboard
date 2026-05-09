@@ -13,6 +13,9 @@ py -3.10 -m pip install streamlit tensorflow numpy pandas matplotlib h5py
 ▶️ Run
 py -3.10 -m streamlit run dashboard.py
 
+Requirements - 
+pip install -r Requirements.txt
+
 Open
 http://localhost:8501
 
